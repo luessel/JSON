@@ -1,0 +1,15 @@
+{ 
+	"infoaboutme": [ 
+	{ "name": "Alina",
+		"age": 26},
+	{ "my pets": {
+		"Cats": "Mikki, Ewa, Kesha, Kleypa",
+		"Dogs": "Cezariya, Fufa" }
+	},
+	{ "devices": {
+		"PC": "Windows 10 Pro",
+		"Telephone": "Iphone 11"}
+	}
+	]
+
+}
